@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olivas1406/BackAlleyStash.git"
+    "url": "git+https://github.com/olivas1406/Stash.git"
   },
   "author": "Daniel Olivas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olivas1406/BackAlleyStash/issues"
+    "url": "https://github.com/olivas1406/Stash/issues"
   },
-  "homepage": "https://github.com/olivas1406/BackAlleyStash#readme",
+  "homepage": "https://github.com/olivas1406/Stash#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
